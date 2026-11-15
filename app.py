@@ -1,10 +1,3 @@
-"""Flask frontend for the existing EfficientNetB0 eye-image classifier.
-
-Copy app.py, templates/, and static/ to the root of your existing project.
-The model stays in models/best_efficientnetb0_finetuned.keras.
-Run from the project root: python app.py
-"""
-
 from functools import lru_cache
 from pathlib import Path
 from tempfile import TemporaryDirectory
