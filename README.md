@@ -375,7 +375,3 @@ To reproduce the experiments or train models from scratch, run the notebooks in 
 > - Anyone experiencing eye discomfort, irritation, visual disturbance, or sudden vision loss should consult a licensed ophthalmologist or seek emergency medical care immediately.
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
